@@ -10,4 +10,4 @@ Tasks completed:
 * Developed CNN and MLP models implementing early stopping to prevent overfitting
 * Evaluated both deep learning models and compared results
 
-![class](images/card_class.png)
+![DL](images/dl.jpeg)
