@@ -1,4 +1,4 @@
-## Deep Learning for Classification of CT Brain Scans
+## Deep Learning for Classification of Brain CT Scans
 
 This project was undertaken as part of an Artificial Intelligence module and in collaboration with a use-case scenario from the NHS. The objective was to develop a deep learning model capable of classifying CT brain scan images into three medical conditions: cancer, tumour, and aneurysm. Using a dataset of 512 images in .jpg and .dcm formats, the study explored and compared the performance of a Convolutional Neural Network (CNN) and a Multilayer Perceptron (MLP) model. The project aimed to investigate the efficacy of these models in medical image classification tasks.
 
